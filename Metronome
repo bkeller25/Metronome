@@ -1,0 +1,9 @@
+
+tempo = input("Enter Metronome Speed: ")
+
+
+
+print("Tempo : " + tempo + " BPM")
+
+
+
